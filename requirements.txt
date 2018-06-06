@@ -1,0 +1,3 @@
+discord
+youtubedl
+discord.ext
